@@ -1,3 +1,16 @@
+> ## ➡️ This project moved to **[Aurora Waves](https://github.com/elblasy33/aurora-waves)**
+>
+> Aurora Radio is now **Aurora Waves**: the same widget (same plugin id, so it updates in place and
+> keeps your stations), with world radio, optional YouTube Music and your own music, and fixes
+> such as Egypt's Maspero stations on Dailymotion. Get it from the
+> [KDE Store](https://store.kde.org) (search **Aurora Waves**) or from
+> [its releases](https://github.com/elblasy33/aurora-waves/releases/latest).
+> This repository is no longer updated.
+>
+> **انتقل المشروع إلى [أمواج أورورا (Aurora Waves)](https://github.com/elblasy33/aurora-waves)**: نفس الودجت
+> بنفس المعرّف، فيتحدّث مكانه ومحطاتك تفضل زي ما هي، وفيه الراديو ويوتيوب ميوزك (اختياري) وموسيقاك،
+> وإصلاحات زي محطات ماسبيرو. المستودع ده مش بيتحدّث تاني.
+
 # Aurora Waves — أمواج أورورا
 
 **World radio, YouTube Music and your own music in one frosted-glass player for KDE Plasma 6.**
