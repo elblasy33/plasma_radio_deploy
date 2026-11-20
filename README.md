@@ -272,4 +272,3 @@ package/
 
 GPL-2.0-or-later. See [LICENSE](LICENSE).
 YouTube and YouTube Music are trademarks of Google LLC; this project is not affiliated with them.
-# aurora-waves
